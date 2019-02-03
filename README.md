@@ -20,4 +20,4 @@ License
 The Layout itself is licensed under [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).
 The EU flag icon is taken from [Iconspedia](http://www.iconspedia.com/pack/european-flags-1631/),
 created by [Alpak](http://alpak.deviantart.com/) and
-licensed under [CC](http://creativecommons.org/licenses/by-nc-nd/3.0)
+licensed under [CC](http://creativecommons.org/licenses/by-nc-nd/3.0).
