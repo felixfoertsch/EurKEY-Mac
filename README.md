@@ -1,7 +1,7 @@
-EurKEY-Mac
+EurKEY-Mac modified
 ==========
 
-The Keyboard Layout for Europeans, Coders and Translators - Version for macOS.
+The Keyboard Layout for Europeans, Coders and Translators - Version for macOS. This repo contains a modified verison of the layout, where the superscript numbers are written by pressing SHIFT and the subscript numbers without pressing shift.
 
 This is a port of the [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.eu/), which features a QWERTY baseline layout (=good access to braces etc.) with quick access to commonly used accented characters and Umlauts.
 
