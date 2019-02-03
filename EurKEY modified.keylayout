@@ -53,7 +53,7 @@
             <key code="7" action="x"/>
             <key code="8" action="c"/>
             <key code="9" action="v"/>
-            <key code="10" output="§"/>
+            <key code="10" output="ẞ"/>
             <key code="11" action="b"/>
             <key code="12" action="q"/>
             <key code="13" action="w"/>
@@ -277,7 +277,7 @@
             <key code="7" action="X"/>
             <key code="8" action="C"/>
             <key code="9" action="V"/>
-            <key code="10" output="§"/>
+            <key code="10" output="ẞ"/>
             <key code="11" action="B"/>
             <key code="12" action="Q"/>
             <key code="13" action="W"/>
@@ -389,7 +389,7 @@
             <key code="7" output="á"/>
             <key code="8" output="ç"/>
             <key code="9" output="ì"/>
-            <key code="10" output="§"/>
+            <key code="10" output="ẞ"/>
             <key code="11" output="í"/>
             <key code="12" action="æ"/>
             <key code="13" output="å"/>
@@ -492,7 +492,7 @@
         </keyMap>
         <keyMap index="4">
             <key code="0" action="Ä"/>
-            <key code="1" output="§"/>
+            <key code="1" output="ẞ"/>
             <key code="2" output="Đ"/>
             <key code="3" output="È"/>
             <key code="4" output="Ù"/>
@@ -613,7 +613,7 @@
             <key code="7" output="Á"/>
             <key code="8" output="Ç"/>
             <key code="9" output="Ì"/>
-            <key code="10" output="§"/>
+            <key code="10" output="ẞ"/>
             <key code="11" output="Í"/>
             <key code="12" action="Æ"/>
             <key code="13" output="Å"/>
@@ -725,7 +725,7 @@
             <key code="7" output="≈"/>
             <key code="8" output="ç"/>
             <key code="9" output="√"/>
-            <key code="10" output="§"/>
+            <key code="10" output="ẞ"/>
             <key code="11" output="∫"/>
             <key code="12" output="œ"/>
             <key code="13" output="∑"/>
@@ -737,7 +737,7 @@
             <key code="19" output="™"/>
             <key code="20" output="£"/>
             <key code="21" output="¢"/>
-            <key code="22" output="§"/>
+            <key code="22" output="ẞ"/>
             <key code="23" output="∞"/>
             <key code="24" output="≠"/>
             <key code="25" output="ª"/>
