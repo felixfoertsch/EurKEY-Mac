@@ -1,11 +1,11 @@
 EurKEY-Mac
 ==========
 
-The Keyboard Layout for Europeans, Coders and Translators - Version for Mac OS X.
+The Keyboard Layout for Europeans, Coders and Translators - Version for macOS.
 
 This is a port of the [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.eu/), which features a QWERTY baseline layout (=good access to braces etc.) with quick access to commonly used accented characters and Umlauts.
 
-**Status**: The whole layout should be mapped now. Please report if you find any missing characters.
+Please report if you find any missing characters.
 
 
 Install
